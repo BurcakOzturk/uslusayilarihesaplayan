@@ -22,7 +22,7 @@ public class uslusayilarihesaplayan {
 			
 		}
 		
-		System.out.println(sayi+"^"+us+" sayisinin değeri : "+sonuc);		
+		System.out.println(sayi+"^"+us+" sayısının değeri : "+sonuc);		
 		
 		
 
